@@ -1,10 +1,10 @@
-This exercise's goal is to improve the css grid following this design.
+# <p align="center">Grid Away, Grid Ahoy !</p><br>
+### <p align="center"> <a href="https://saphido.github.io/Grid-away-grid-ahoy-/">LINK TO THE PROJECT</a> </p><br>
 
-![](exercise-2.png)
+<p align="center"> Here is my repository for the grid exercise. <br>
+In this exercise, we need to recreate the layout below and deploy it on github page. This time, our project need to be responsive. <br>
+Bonus : Making a functional Hamburger menu.
+<br><br> <b>Finished | Waiting coach approuvement<p></b>
+<br>
 
-
-Add a navigation sidebar to the left, with some dummy links in them
-Style the navigation bar using only the framework you selected
-Make it responsive and on mobile screens (< 768px) make sure the sidenav disappears completely
-Bonus DUCKS EXTREME 🦆
-Make a functional Hamburger menu.
+<img src="img/exercise.png">
